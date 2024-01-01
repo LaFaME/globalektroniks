@@ -1,0 +1,287 @@
+/* @media (min-width: 600px) 
+   
+    
+   
+ 
+   min-height: 100vh; 
+   flex: 0.5;
+   flex-direction: auto;
+   flex-wrap: wrap;
+   width: 50%;
+   font-size: 1.5em;  */
+
+
+/* ALL <a> TAGS LINK / TEXT UNDERLINE REMOVAL */
+
+a  {
+   text-decoration: none;
+   
+}
+
+body {
+   background-color:  #add8e6;
+   /* lightblue; */
+   /* padding-left: 20px; */
+}  
+ 
+
+
+}
+ #efair-logo  {
+   margin-top: 500px;
+  padding: 20px;
+  padding-left: 50px;
+  padding-bottom: 0%;
+   
+}
+
+#efair-logo p {
+   padding-top: 0%;
+
+}
+
+#efair-logo img {
+   width: 30%;
+   height: 30%;
+   
+  
+  
+}
+
+/* Search form */
+#search-bar {  
+   float: right;
+   height: 200px;
+   overflow: auto;
+   position: absolute;
+   top: 5px;
+   right: 50px; 
+   margin-top: 5px;
+      
+       
+}
+#search-bar form {
+   padding-top: 50px; padding-right: 100px;
+   float: right;
+   display: ;
+   align-items: center;
+ }
+ 
+ #search-bar input {
+   padding: 10px;
+   width: 100px;
+   border: 1px solid #ccc;
+   border-radius: 10px;
+   margin-right: 10px;
+ }
+ 
+ #search-bar button {
+   padding: 5px 10px;
+   border: 1px solid #ccc;
+   border-radius: 10px;
+   cursor: pointer;
+ }
+ 
+
+/* Top Nav */
+
+#topNav {
+   padding-top: 50px;
+   margin-top: 50px;
+   text-overflow: ;
+   text-align: center;
+   font-size: 16px;
+
+}
+
+nav {
+   font-size: 30px;
+   text-align: center;
+   background-color: #ffff99;
+   overflow: hidden;
+}
+
+nav ul {
+   list-style-type: none;
+   padding: 0%;
+}
+
+nav li {
+   /*float: left;*/
+   display: inline-block;
+}
+
+nav a {
+   color: #4c00ff;
+   text-decoration: none;
+   padding: 14px 16px;
+}
+
+nav a:hover {
+   background-color: #ccff99;
+   color: #d3a320;
+}
+
+
+
+/* <MAIN> / PRODUCT CONTENTS */
+
+   #productPackages {
+   
+   img 
+   
+      /* display: flex;  display horizontally*/
+ /*    display: grid; grid-template-columns: repeat(5, 1fr);
+
+      
+      padding-top: 20px;
+      height: ;
+      overflow: hidden;
+
+      width: 100%; /* Set the width of the div */
+  /*    margin: 0 auto; /* Set top/bottom margin to 0 and left/right margin to auto */
+    /*  text-align: center; /* Optionally, to center text within the div */
+      
+     /*
+   } */
+
+   /*  .courousel-slide {
+      box-sizing: border-box;
+      
+       width: 50%; /* Set the width of the div */
+     /*    margin: 0 auto; /* Set top/bottom margin to 0 and left/right margin to auto */
+       /*  text-align: center; /* Optionally, to center text within the div */
+    /*  left: 50%;
+     right: 50%;
+      position: absolute;
+      top: 0;
+      left: ;
+      width: 100%;
+      height: 100%;
+      display: none;
+      opacity: 0;
+      transition: opacity 0.5s ease-in-out;
+    }
+    
+    .courousel-slide img {
+      width: 100%;
+      height: 100%;
+      object-fit: ;
+      display: block;
+    }
+
+    .courousel-slide button {
+      }
+    
+    .courousel-slide.active {
+      display: block;
+      opacity: 1;
+    }
+    
+    .prev, .next {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: transparent;
+      border: none;
+      color: white;
+      font-size: 32px;
+      cursor: pointer;
+    }
+    
+    .prev {
+      left: 20px;
+    }
+    
+    .next {
+      right: 20px; */
+    } 
+    
+
+   
+
+
+/* FOOTER */
+
+footer {
+   background-color: #ffff99;
+   overflow: hidden;
+}
+
+footer {
+   list-style-type: none;
+   padding: 12px; 10px;
+}
+
+footer  {
+   /* float: left; 
+   display: inline-block; */
+}
+
+footer {
+   color: #ff0022;
+   text-decoration: none;
+   padding: 14px 16px;
+}
+
+footer a:hover {
+   background-color: blue;
+   color: black;
+   
+}
+
+
+/* sitemap-footer */
+#sitemap-footer {
+   /* display: inline-block; */
+   text-align: center;
+   padding-top: none;
+}
+
+#sitemap-footer a:hover {
+   
+
+color: #d3a320;
+   background-color: #ccff99;
+}
+
+#sitemap-footer a 
+     {
+   padding-right: 14px;
+   text-decoration: none;
+   
+
+}
+
+/* Social Footer */
+#social-footer a {
+   text-decoration: none;
+}
+
+#social-footer  {
+   display: block;
+   flex-direction: column;
+   color:#ff0022;
+   margin: auto;
+   background-color: transparent;
+}
+#social-footer li {
+   list-style: none;
+   
+   padding: 10px;
+   margin-bottom: 8px;
+}
+
+#social-footer a:hover {
+   text-decoration: none;
+   background-color: blue;
+   color: black;
+}
+
+#Copyright-footer {
+   font-size: 8px;
+
+}
+
+
+}
